@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="welcome_message">Siyakwamukela ku WeatherApp (isibonelo)</string>
+</resources>
